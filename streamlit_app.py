@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- 페이지 설정 ---
 st.set_page_config(
-    page_title="홍길동 포트폴리오",
+    page_title="Koni_4749 Potfolio",
     page_icon="👤",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -72,11 +72,11 @@ st.markdown("""
 
 # --- 데이터 정의 ---
 profile = {
-    "name": "홍길동",
+    "name": "Koni_4749",
     "role": "Full-Stack Developer",
     "email": "gildong@example.com",
     "phone": "010-1234-5678",
-    "location": "서울시 강남구",
+    "location": "Bucheon-si, Gyeonggi-do",
     "bio": "데이터와 사용자 경험을 연결하는 가교 역할을 하는 개발자입니다. 효율적인 코드와 깔끔한 UI를 지향하며, 새로운 기술을 학습하고 공유하는 것을 즐깁니다.",
     "skills": ["React", "Node.js", "TypeScript", "Python", "Tailwind CSS", "PostgreSQL"]
 }
